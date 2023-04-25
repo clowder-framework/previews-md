@@ -1,0 +1,8 @@
+{
+  "name": "MarkdownViewer",
+  "main": "markdown.js",
+  "file": true,
+  "contentType": [
+    "text/markdown"
+  ]
+}
